@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/rayrp-logo-128x154.png",
-    "mbrsiteDomain": "919voqqnca",
+    "mbrsiteDomain": "dq0if3yvoh",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -74,7 +74,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Ray RolePlay",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
